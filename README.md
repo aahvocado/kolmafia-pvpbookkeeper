@@ -11,7 +11,7 @@ run it by using the relay dropdown.
 ![Screenshot of Matchups](./matchup-screenshot.png)
 
 
-![Screenshot of Matchups](./minigame-screenshot.png)
+![Screenshot of Minigame stats](./minigame-screenshot.png)
 
 # Credits
 This is a heavily modified version of [Vhaeraun's Glorious PVP Bookkeeper](https://kolmafia.us/threads/vhaerauns-glorious-pvp-bookkeeper.10762/).
